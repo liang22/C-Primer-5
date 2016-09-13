@@ -4,4 +4,4 @@
     执行浮点数运算选用double，因为计算代价相差无几或更快。
 
 0202
-    利率选用double,本金long long,付款int。
+    都选用double。
